@@ -89,7 +89,7 @@ _ALGUNOS COMANDOS NO FUNCIONAN YA QUE EL BOT ESTA EN MANTENIMIENTO*
 ➢Si quieres el bot en algún grupo escribe al siguiente número http://wa.me/+79058398754
 
 ♡━━━━━━━━━━━♡━━━━━━━━━━♡
-*⌜🔥♥️Te Amo Wendy♥️🔥⌟* Eres mi todo, eres perfecta, te veo perfecta, nunca cambies✨, Te amo y te seguiré amando sin importar el tiempo/momento o situación✨❤️
+*[⌜Mi amor por ti no tiene límites, Te amo con el corazón, Te amo con el alma✨❤️.Te llevo conmigo siempre, Tu estás en mi mente y en mi corazón en todo momento⌟ ] ⌜🔥❤️Te Amo Wendy👑❤️⌟*
 ♡━━━━━━━━━━━♡━━━━━━━━━━♡
 
 BY:〲⎠⎠ɪʀᴇɴ〴᭄ Y🌹⃢⃟ꦼW҉𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽⁩*
