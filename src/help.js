@@ -52,6 +52,8 @@ _ALGUNOS COMANDOS NO FUNCIONAN YA QUE EL BOT ESTA EN MANTENIMIENTO_
  ┃   ๛Menú De +18.
  ┣☛ ${prefix}juegos
  ┃   ๛Menú De Juegos.
+ ┣☛ ${prefix}desmenu
+ ┃   ๛Menú De descargas.
  ┣━━━━━━━━━━━━━━━━━━━━ 
  ┃ *┗━┅┅┄-⟞⟦OTROS⟧⟝-┄┉┉━┛*
  ┣☛ ${prefix}version
