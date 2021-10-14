@@ -19,8 +19,6 @@ _ALGUNOS COMANDOS NO FUNCIONAN YA QUE EL BOT ESTA EN MANTENIMIENTO*
 
  ┏━━━━━━━━━━━━━━━━━━━━ 
  ┃ *┗━┅┅┄⟞⟦GRUPOS⟧⟝┄┉┉━┛*
- ┣☛ ${ prefix }unir
- ┃   ๛Agregar Nuevo Participante.
  ┣☛ ${ prefix }fgc
  ┃   ๛Cambiar Foto Del Grupo.
  ┣☛ ${ prefix }ngc
@@ -55,8 +53,6 @@ _ALGUNOS COMANDOS NO FUNCIONAN YA QUE EL BOT ESTA EN MANTENIMIENTO*
  ┃   ๛Menú De Juegos.
  ┣━━━━━━━━━━━━━━━━━━━━ 
  ┃ *┗━┅┅┄-⟞⟦OTROS⟧⟝-┄┉┉━┛*
- ┣☛ ${prefix}desmenu
- ┃   ๛Menu De Descargas.
  ┣☛ ${prefix}version
  ┃   ๛Versión Del Bot.
  ┣☛ ${prefix}otak
