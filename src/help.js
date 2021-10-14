@@ -7,16 +7,17 @@ const help = (prefix) => {
 ▂▄▅█████████▅▄▃▂…
 [███████████████████]
 *╚╩══✠INFORMACIÓN✠══╩╝*
-_ALGUNOS COMANDOS NO FUNCIONAN YA QUE EL BOT ESTA EN MANTENIMIENTO*
+_ALGUNOS COMANDOS NO FUNCIONAN YA QUE EL BOT ESTA EN MANTENIMIENTO_
 
 *○COMANDO:* ⌜ * ⌟
 *○GRUPO OFC:* ☪⃟⚜⃝𝔸ℕ𝕀𝕄𝔼&𝕄𝔸𝕊⃝➳⃟♾
-*ÚNETE A NUESTRO GRUPO OFICIAL* https://bit.ly/3yt247X
+*ÚNETE A NUESTRO GRUPO OFICIAL*
+     https://bit.ly/3yt247X
 
 *◤━━━ ☆. REGISTRATE .☆ ━━━◥*
+     *daftar y tu Nombre.
 
-*daftar y tu Nombre.
-
+*◤━━━ ☆[][COMANDOS][]☆ ━━━◥*
  ┏━━━━━━━━━━━━━━━━━━━━ 
  ┃ *┗━┅┅┄⟞⟦GRUPOS⟧⟝┄┉┉━┛*
  ┣☛ ${ prefix }fgc
@@ -92,7 +93,7 @@ _ALGUNOS COMANDOS NO FUNCIONAN YA QUE EL BOT ESTA EN MANTENIMIENTO*
 *[⌜Mi amor por ti no tiene límites, Te amo con el corazón, Te amo con el alma✨❤️.Te llevo conmigo siempre, Tu estás en mi mente y en mi corazón en todo momento⌟ ] ⌜🔥❤️Te Amo Wendy👑❤️⌟*
 ♡━━━━━━━━━━━♡━━━━━━━━━━♡
 
-BY:〲⎠⎠ɪʀᴇɴ〴᭄ Y🌹⃢⃟ꦼW҉𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽⁩*
+*BY:〲⎠⎠ɪʀᴇɴ〴᭄ Y🌹⃢⃟ꦼW҉𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽⁩*
 `
 }
 
